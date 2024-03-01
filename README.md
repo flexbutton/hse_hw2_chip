@@ -24,3 +24,6 @@
 ![image](https://github.com/flexbutton/hse_hw2_chip/assets/153866219/97c33f83-d095-46d1-aea8-873011d868b1)
 ![image](https://github.com/flexbutton/hse_hw2_chip/assets/153866219/82f47815-9d49-45ce-a6b7-3cbf311a00ed)
 
+Таблица выравнивания на 17 хромосому.
+\
+![image](https://github.com/flexbutton/hse_hw2_chip/assets/153866219/adada499-0ab3-4c47-a15e-b2c106accf1a)
